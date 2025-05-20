@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(255, 229, 204);
+}
+
+h1{
+    background-color: rgb(233 150 122);
+    color: whitesmoke;
+    height: 150px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 70px;
+}
+
+
+img{
+    width: 50%;
+    height: 75%;
+    
+}
+
+#opis3{
+    text-align: center;
+    width: 600px;
+    color: whitesmoke;
+    background-color: rgb(0, 0, 0);
+    height: 500px;
+    justify-content: space-around;
+    margin: auto;
+    padding: 20px;
+    
+    border-radius: 15px;
+    padding-top: 20px ;
+}
+
+
+#dwa{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    padding-left: 150px;
+    padding-top: 30px;
+
+}
